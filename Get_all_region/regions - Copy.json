@@ -1,0 +1,1137 @@
+[
+    {
+        "name": "Adelaide - Greater Region",
+        "state": "SA",
+        "id": "5b3d5036-a0c8-4935-be86-a6199c8bc9d6"
+    },
+    {
+        "name": "Adelaide Hills",
+        "state": "SA",
+        "id": "7b4078d4-927a-45d8-831d-6e71b7b48234"
+    },
+    {
+        "name": "Albury - Greater Region",
+        "state": "NSW",
+        "id": "fafa7595-060b-4a9f-beec-69bf4f9b0efc"
+    },
+    {
+        "name": "Albany - Greater Region",
+        "state": "WA",
+        "id": "c4e91668-412a-4a7b-bfe0-98bb4cb372fd"
+    },
+    {
+        "name": "Armidale - Greater Region",
+        "state": "NSW",
+        "id": "08a1627f-fb59-4d8b-8a23-782dc8bc0374"
+    },
+    {
+        "name": "Atherton - Greater Region",
+        "state": "QLD",
+        "id": "93b17b51-a883-41a9-9e6e-d903eac1fe76"
+    },
+    {
+        "name": "Ayr - Greater Region",
+        "state": "QLD",
+        "id": "9aa7a646-3745-45c1-8bb5-cc8e5c709f1b"
+    },
+    {
+        "name": "Brisbane - Greater Region",
+        "state": "QLD",
+        "id": "ab556583-cbc4-4f86-a2c7-e58f0d08e4e1"
+    },
+    {
+        "name": "Brisbane - Northern Region",
+        "state": "QLD",
+        "id": "df046949-ab5a-4d20-bbae-6731991dcfcc"
+    },
+    {
+        "name": "Brisbane - Southern Region",
+        "state": "QLD",
+        "id": "f36b323e-1f41-42eb-9085-4e3a1bdee58b"
+    },
+    {
+        "name": "Bayside",
+        "state": "VIC",
+        "id": "fac22833-a5fa-4ebc-bcb1-f4e422eada0d"
+    },
+    {
+        "name": "Brisbane - Western Region",
+        "state": "QLD",
+        "id": "fac24689-b0ba-4393-b8f7-daa83afd58c1"
+    },
+    {
+        "name": "Brisbane - Inner City Region",
+        "state": "QLD",
+        "id": "bbd58859-aebe-40ba-ad93-112a787412cc"
+    },
+    {
+        "name": "Brisbane - Eastern Region",
+        "state": "QLD",
+        "id": "00a05db9-e64a-468f-b59e-37df7e577a4a"
+    },
+    {
+        "name": "Ballarat - Greater Region",
+        "state": "VIC",
+        "id": "c88cf1a5-4de8-4f7c-8213-aa2efb373069"
+    },
+    {
+        "name": "Bendigo - Greater Region",
+        "state": "VIC",
+        "id": "1145af79-1bec-4bcb-9e81-767bd4cd79c7"
+    },
+    {
+        "name": "Belconnen District",
+        "state": "ACT",
+        "id": "14de464c-512e-4821-aed0-743a765b610c"
+    },
+    {
+        "name": "Bellarine Peninsula",
+        "state": "VIC",
+        "id": "e263b326-5d1a-418f-87c9-a1941471ad9d"
+    },
+    {
+        "name": "Bayside",
+        "state": "QLD",
+        "id": "b7c80290-bf36-47c3-a8c0-2e05718ec32e"
+    },
+    {
+        "name": "Bundaberg - Greater Region",
+        "state": "QLD",
+        "id": "34d34bee-6c8c-49a9-9595-20f7778a3e68"
+    },
+    {
+        "name": "Blue Mountains - Region",
+        "state": "NSW",
+        "id": "57b80746-a721-4e33-84b7-73849fdf1967"
+    },
+    {
+        "name": "Bunbury - Greater Region",
+        "state": "WA",
+        "id": "4dbeebb4-cf1b-462f-9910-91b9fcbcb8c6"
+    },
+    {
+        "name": "Bass Coast Shire",
+        "state": "VIC",
+        "id": "92857843-3fb1-4ba0-83fb-84891355d141"
+    },
+    {
+        "name": "Bega Valley",
+        "state": "NSW",
+        "id": "855f66f8-48c0-44fd-a1af-e24abd4dc336"
+    },
+    {
+        "name": "Bairnsdale - Greater Region",
+        "state": "VIC",
+        "id": "713d67da-4613-4e6d-b872-d53e06a24f55"
+    },
+    {
+        "name": "Bathurst Region",
+        "state": "NSW",
+        "id": "eae191dd-6de3-4de5-af16-71c97a506bf5"
+    },
+    {
+        "name": "Ballina - Greater Region",
+        "state": "NSW",
+        "id": "5e72d00b-b18b-49c4-bc07-b8c98ffc2216"
+    },
+    {
+        "name": "Buderim Region",
+        "state": "QLD",
+        "id": "87c45d94-6d58-4912-a6f6-b2c0e97c24a0"
+    },
+    {
+        "name": "Broadford and Mitchell Shire",
+        "state": "VIC",
+        "id": "d102dc9c-c93a-4757-9558-75ac8f6a7f75"
+    },
+    {
+        "name": "Burnie - Greater Region",
+        "state": "TAS",
+        "id": "e89d07fb-7089-4fba-ad58-f3b3ba1f24ba"
+    },
+    {
+        "name": "Byron Bay - Greater Region",
+        "state": "NSW",
+        "id": "ae3dac84-253b-4f7b-a4bf-3253850a9c1e"
+    },
+    {
+        "name": "Canberra - Greater Region",
+        "state": "ACT",
+        "id": "feb4f1ac-711a-41ca-8a50-0069e880aedc"
+    },
+    {
+        "name": "Central Queensland - Region",
+        "state": "QLD",
+        "id": "98c1c7b8-7b8d-47ef-a646-146b51e7d238"
+    },
+    {
+        "name": "Central Coast",
+        "state": "NSW",
+        "id": "04ee7cb0-0043-4196-a6f1-5e2d591cb8e5"
+    },
+    {
+        "name": "Canterbury-Bankstown",
+        "state": "NSW",
+        "id": "abb145e8-496b-4dc8-8491-6977f7fb632a"
+    },
+    {
+        "name": "Central Tablelands",
+        "state": "NSW",
+        "id": "7a35167e-cb23-4273-bbf5-60bcad7eac18"
+    },
+    {
+        "name": "Cairns - Greater Region",
+        "state": "QLD",
+        "id": "b386e757-eef8-4d94-8998-e71f838de151"
+    },
+    {
+        "name": "City",
+        "state": "SA",
+        "id": "2bee3e71-a6ed-4f6d-9edb-5a535b068130"
+    },
+    {
+        "name": "Coffs Harbour - Greater Region",
+        "state": "NSW",
+        "id": "622845b7-57d4-4956-86f4-c3b50436265a"
+    },
+    {
+        "name": "Camperdown - Greater Region",
+        "state": "VIC",
+        "id": "ac518e20-fcfb-4458-96ea-a6bc843ac9ff"
+    },
+    {
+        "name": "Central Australia",
+        "state": "NT",
+        "id": "feb6de2d-7982-4225-b14d-9514971770f3"
+    },
+    {
+        "name": "Colac and Otway Shire",
+        "state": "VIC",
+        "id": "67a86b37-28aa-4ff7-b660-afde16ff56fb"
+    },
+    {
+        "name": "Camden Haven",
+        "state": "NSW",
+        "id": "4a7101e9-a2d9-4c12-991e-611bb3235000"
+    },
+    {
+        "name": "Darling Downs",
+        "state": "QLD",
+        "id": "30196664-e15f-4d73-b81e-f16482ebcce2"
+    },
+    {
+        "name": "Dubbo and Orana",
+        "state": "NSW",
+        "id": "0d0a57fc-e597-4f09-8864-ac2b36dcb4a3"
+    },
+    {
+        "name": "Darwin - Greater Region",
+        "state": "NT",
+        "id": "988bec30-1ec3-46cc-a26f-67d6dc4e33a1"
+    },
+    {
+        "name": "Dandenong Ranges",
+        "state": "VIC",
+        "id": "b0fb3eb6-67ea-419c-b5e5-ae4e93230178"
+    },
+    {
+        "name": "Devonport - Greater Region",
+        "state": "TAS",
+        "id": "6449fffb-b6a7-410a-a2f3-85d2181bd895"
+    },
+    {
+        "name": "Eastern Melbourne",
+        "state": "VIC",
+        "id": "c3765fc0-31ec-4bfc-b536-27a6609fd14e"
+    },
+    {
+        "name": "Eastern Suburbs",
+        "state": "NSW",
+        "id": "1dc4e39e-4c38-4521-a01d-c9fa2965f62a"
+    },
+    {
+        "name": "Eastern Adelaide",
+        "state": "SA",
+        "id": "e0c7e1ba-6932-4d27-a308-81152c409b2d"
+    },
+    {
+        "name": "Eyre",
+        "state": "SA",
+        "id": "c522fd82-8e55-4d8f-90d3-af1adb3e643b"
+    },
+    {
+        "name": "East Coast",
+        "state": "TAS",
+        "id": "de854875-fad7-49bf-b735-1fee4938a00b"
+    },
+    {
+        "name": "Echuca - Greater Region",
+        "state": "VIC",
+        "id": "aac021bc-7a12-4665-987a-c779dd26b4bf"
+    },
+    {
+        "name": "Far North",
+        "state": "SA",
+        "id": "9cc49c2a-2821-4190-9ce8-5a7a77de5a54"
+    },
+    {
+        "name": "Far North Queensland",
+        "state": "QLD",
+        "id": "4f5a8052-41ac-4ba4-9999-53ba234ba8de"
+    },
+    {
+        "name": "Fleurieu Peninsula",
+        "state": "SA",
+        "id": "940f6e7f-6df7-4909-9631-cf2fc82b6169"
+    },
+    {
+        "name": "Gold Coast",
+        "state": "QLD",
+        "id": "c1c59e12-65bc-4742-9a23-ab8d5b3b10c1"
+    },
+    {
+        "name": "Gippsland",
+        "state": "VIC",
+        "id": "ca17082b-ccf2-4894-bea5-55c19449aeaf"
+    },
+    {
+        "name": "Geelong - Greater Region",
+        "state": "VIC",
+        "id": "c17ea885-a1a6-47d9-b238-b84760721974"
+    },
+    {
+        "name": "Great Southern Region",
+        "state": "WA",
+        "id": "9d3cc288-5a3f-4fb8-89e3-d88b079ddd76"
+    },
+    {
+        "name": "Gerringong Region",
+        "state": "NSW",
+        "id": "aa8fee56-f32c-4a7f-a65e-fe699672b968"
+    },
+    {
+        "name": "Gascoyne",
+        "state": "WA",
+        "id": "c389f3f5-fcd0-4170-8397-8d1c12a2fd6a"
+    },
+    {
+        "name": "Gungahlin District",
+        "state": "ACT",
+        "id": "48552a18-55b1-4509-bf95-4a7525be2865"
+    },
+    {
+        "name": "Gippsland West",
+        "state": "VIC",
+        "id": "498f8bf4-4b5c-44e1-ab3e-fd56f904f21e"
+    },
+    {
+        "name": "Goldfields-Esperance",
+        "state": "WA",
+        "id": "ceede679-52b5-4df0-bd14-d52708bfc39f"
+    },
+    {
+        "name": "Gladstone - Greater Region",
+        "state": "QLD",
+        "id": "e4fa307e-730b-476c-9a6a-9a0deec93d6f"
+    },
+    {
+        "name": "Gympie - Greater Region",
+        "state": "QLD",
+        "id": "044646a4-7f75-4c86-a16f-994466091c96"
+    },
+    {
+        "name": "Gippsland South",
+        "state": "VIC",
+        "id": "68ffc916-338d-4058-a285-e8b62ddd1502"
+    },
+    {
+        "name": "Geraldton - Greater Region",
+        "state": "WA",
+        "id": "96cedaf4-7865-4984-a76d-f005276c910f"
+    },
+    {
+        "name": "Grafton - Greater Region",
+        "state": "NSW",
+        "id": "c74e644a-a735-4e5d-be11-47d95cd388ca"
+    },
+    {
+        "name": "Gove",
+        "state": "NT",
+        "id": "f45fd322-ff6e-4338-8f37-5c9f80817540"
+    },
+    {
+        "name": "Goulburn - Greater Region",
+        "state": "NSW",
+        "id": "c6d83983-9a8f-40d1-adad-dbb091b5ec8e"
+    },
+    {
+        "name": "Gawler - Greater Region",
+        "state": "SA",
+        "id": "47a661ea-d083-407d-92fb-1e4ea3f3c39d"
+    },
+    {
+        "name": "Gold Coast Hinterland - Region",
+        "state": "QLD",
+        "id": "ac61ac88-ac3f-41d3-9365-d2b1b903b45a"
+    },
+    {
+        "name": "Hunter Region",
+        "state": "NSW",
+        "id": "58d42e25-48fc-43c8-9c6c-734e7a12f675"
+    },
+    {
+        "name": "Hobart - Greater Region",
+        "state": "TAS",
+        "id": "571fccda-d808-4852-ba33-fc979cf01d09"
+    },
+    {
+        "name": "Hawkesbury Region",
+        "state": "NSW",
+        "id": "8c19af17-7edc-48c5-977c-08027c706aaa"
+    },
+    {
+        "name": "Hervey Bay - Greater Region",
+        "state": "QLD",
+        "id": "b3e596ca-dc8a-4e04-bb2c-08b9ec54e79f"
+    },
+    {
+        "name": "Healesville - Greater Region",
+        "state": "VIC",
+        "id": "33f771d9-d7b7-4221-b256-a4f90d2348bb"
+    },
+    {
+        "name": "Huon Valley",
+        "state": "TAS",
+        "id": "c6d2cb4e-433d-403a-9fd8-93ef7c4301e9"
+    },
+    {
+        "name": "Inner East Melbourne",
+        "state": "VIC",
+        "id": "331bb74a-9779-4f52-934f-6370ddaca80c"
+    },
+    {
+        "name": "Inner West",
+        "state": "NSW",
+        "id": "1fd829b8-ac54-41b1-afd4-fc55e06977a2"
+    },
+    {
+        "name": "Illawarra Region",
+        "state": "NSW",
+        "id": "38d87cb4-e3df-49eb-bcb2-d096267cf2e8"
+    },
+    {
+        "name": "Ipswich - Greater Region",
+        "state": "QLD",
+        "id": "0ddfa826-b878-4e59-8b41-d336b1f2d932"
+    },
+    {
+        "name": "Inner North",
+        "state": "ACT",
+        "id": "1bcb337a-4b59-43d5-8698-341a0bc44d02"
+    },
+    {
+        "name": "Ipswich City and Suburbs",
+        "state": "QLD",
+        "id": "eb8b8771-dd90-4b7f-b004-c041a403fb39"
+    },
+    {
+        "name": "Inner South",
+        "state": "ACT",
+        "id": "3e9d671b-90c6-4b45-9e24-5ddcf7d6dd82"
+    },
+    {
+        "name": "Innisfail - Greater Region",
+        "state": "QLD",
+        "id": "cb9f7b93-f46f-488e-86bb-aa0a3ee000b7"
+    },
+    {
+        "name": "Perth - Greater Region",
+        "state": "WA",
+        "id": "1a0e64f5-3783-4982-ac99-51877e6c1459"
+    },
+    {
+        "name": "Melbourne - Northern Region",
+        "state": "VIC",
+        "id": "ef258a2b-08eb-42ab-8f57-f74e5f5646cf"
+    },
+    {
+        "name": "Southern Region",
+        "state": "QLD",
+        "id": "9acc7811-64e9-4156-a153-8df022f074b0"
+    },
+    {
+        "name": "Northern Queensland - Region",
+        "state": "QLD",
+        "id": "01704a9b-7648-47b5-9a81-9c1175fce882"
+    },
+    {
+        "name": "Melbourne City - Greater Region",
+        "state": "VIC",
+        "id": "0dd9fcec-2f48-422f-ae81-f6903cc25081"
+    },
+    {
+        "name": "South East Melbourne",
+        "state": "VIC",
+        "id": "c7b71a8a-fe58-412a-b23c-abe2a6fddb92"
+    },
+    {
+        "name": "Western Region",
+        "state": "VIC",
+        "id": "095294d1-5372-41a5-a003-c83bcb614fcb"
+    },
+    {
+        "name": "Sunshine Coast",
+        "state": "QLD",
+        "id": "9280a900-d539-4e0c-9385-9590315c4cb5"
+    },
+    {
+        "name": "Moreton Bay Region",
+        "state": "QLD",
+        "id": "e6a11398-5255-42a5-a55c-a54f9ae1e4ad"
+    },
+    {
+        "name": "Northern Adelaide",
+        "state": "SA",
+        "id": "d61ff6b9-c063-4e21-aafd-0990cca8da57"
+    },
+    {
+        "name": "Parramatta - Greater Region",
+        "state": "NSW",
+        "id": "da9e8f17-4d5d-4017-a5ed-5b9be9d445c8"
+    },
+    {
+        "name": "Mornington Peninsula",
+        "state": "VIC",
+        "id": "b269459e-ed62-4376-b141-9bd39582b840"
+    },
+    {
+        "name": "Mid North Coast",
+        "state": "NSW",
+        "id": "775dab96-b79e-419a-9fbb-7b16113cea85"
+    },
+    {
+        "name": "Northern Rivers",
+        "state": "NSW",
+        "id": "7ad71832-ffdb-4081-ab00-53ffbf75ae3e"
+    },
+    {
+        "name": "Northern Region",
+        "state": "VIC",
+        "id": "0fe0eb40-506d-430d-9bda-5c2e443b4248"
+    },
+    {
+        "name": "North East Region",
+        "state": "VIC",
+        "id": "b91fcb54-4411-48bc-be48-2a3fd5031ab2"
+    },
+    {
+        "name": "Southern Adelaide",
+        "state": "SA",
+        "id": "f32d42b9-20c5-4839-8ed2-5dde2639db44"
+    },
+    {
+        "name": "South West Melbourne",
+        "state": "VIC",
+        "id": "37e64dd8-7b09-466a-a22c-bea5e5f5c3b5"
+    },
+    {
+        "name": "South Coast Region",
+        "state": "WA",
+        "id": "f1cdc8d8-9428-430a-84fa-22c87a54dfce"
+    },
+    {
+        "name": "Logan City - Region",
+        "state": "QLD",
+        "id": "59290fdf-6e8e-4ea3-a2ac-c3e774d6c6e1"
+    },
+    {
+        "name": "Liverpool - Greater Region",
+        "state": "NSW",
+        "id": "77773365-1de6-4ac0-8f1c-6430603bbc26"
+    },
+    {
+        "name": "Newcastle - Greater Region",
+        "state": "NSW",
+        "id": "3cf58c0d-347c-4c36-8e0b-db507486f987"
+    },
+    {
+        "name": "Macarthur Region",
+        "state": "NSW",
+        "id": "894e9345-8ec9-4acf-b0aa-0b23431a4e0c"
+    },
+    {
+        "name": "Western Adelaide",
+        "state": "SA",
+        "id": "4309f576-b0ce-4bdd-82be-0d6ec464e012"
+    },
+    {
+        "name": "Riverina Region",
+        "state": "NSW",
+        "id": "8c65e2ed-484e-4167-8b24-8eeaa805db35"
+    },
+    {
+        "name": "Yarra Valley",
+        "state": "VIC",
+        "id": "b1f8a5ab-1926-4199-8e99-067487fbcc8f"
+    },
+    {
+        "name": "Toowoomba - Greater Region",
+        "state": "QLD",
+        "id": "a4ddd2d4-47d9-4c94-8759-22b709c77a2d"
+    },
+    {
+        "name": "South Western Region",
+        "state": "VIC",
+        "id": "862daa9a-0faa-45fb-892a-6f98414b01f8"
+    },
+    {
+        "name": "Sutherland Shire",
+        "state": "NSW",
+        "id": "c106fcc5-3690-42f8-b245-9c4fc34a5965"
+    },
+    {
+        "name": "The Hills",
+        "state": "NSW",
+        "id": "e5ff3307-2987-403a-9e75-74a56aed1ac3"
+    },
+    {
+        "name": "Western Melbourne",
+        "state": "VIC",
+        "id": "6e2156c0-c5cc-4312-94d7-fe9171e9348d"
+    },
+    {
+        "name": "Outer Adelaide",
+        "state": "SA",
+        "id": "2158ced3-5f89-4cbe-b919-e2cf79e4364e"
+    },
+    {
+        "name": "Perth - CBD and Inner Suburbs",
+        "state": "WA",
+        "id": "bacf57a1-b669-4902-b092-dda629490312"
+    },
+    {
+        "name": "Lake Macquarie - Greater Region",
+        "state": "NSW",
+        "id": "020764d1-ffd6-4099-8fb3-0a62de8715e1"
+    },
+    {
+        "name": "Wollongong - Greater Region",
+        "state": "NSW",
+        "id": "1f4e19e9-5afc-40ad-a00b-768a88cfa160"
+    },
+    {
+        "name": "Townsville - Greater Region",
+        "state": "QLD",
+        "id": "e7ea5d97-0f2d-4fcc-b841-538e453d8085"
+    },
+    {
+        "name": "Melton - Greater Region",
+        "state": "VIC",
+        "id": "cbf4f384-b292-42b1-8421-757ec0ba5ef7"
+    },
+    {
+        "name": "Penrith - Greater Region",
+        "state": "NSW",
+        "id": "943880e2-e02c-4722-90a6-c435472dd03b"
+    },
+    {
+        "name": "Kingaroy - Greater Region",
+        "state": "QLD",
+        "id": "43786ca8-3bad-45d1-a6e9-7eaf3cfafa3a"
+    },
+    {
+        "name": "Jerrabomberra District",
+        "state": "ACT",
+        "id": "df93e917-5750-44d3-a1a7-7f230b2650f9"
+    },
+    {
+        "name": "Knox City - Region",
+        "state": "VIC",
+        "id": "70e7b0dc-ae01-4ef8-b989-399219947311"
+    },
+    {
+        "name": "Kimberley",
+        "state": "WA",
+        "id": "1da5c11a-b056-4441-af90-3c0dbde95086"
+    },
+    {
+        "name": "Kawana Waters",
+        "state": "QLD",
+        "id": "1e4ad778-6fba-4963-9c35-f3f10308216d"
+    },
+    {
+        "name": "Kempsey - Greater Region",
+        "state": "NSW",
+        "id": "0000a953-3ad6-44f4-99d1-264397fd71c9"
+    },
+    {
+        "name": "Karratha - Greater Region",
+        "state": "WA",
+        "id": "462538ab-5957-44f7-90ac-4f18143a6b79"
+    },
+    {
+        "name": "Kyabram Region",
+        "state": "VIC",
+        "id": "176a795a-adb5-4699-a1c7-7f7e0dca780f"
+    },
+    {
+        "name": "Lower North Shore",
+        "state": "NSW",
+        "id": "3bd3328a-b5cc-43a3-83cd-3b678e650219"
+    },
+    {
+        "name": "Launceston - Greater Region",
+        "state": "TAS",
+        "id": "24329870-7fe8-4a77-8d99-5c80dfe4b242"
+    },
+    {
+        "name": "Limestone Coast",
+        "state": "SA",
+        "id": "fea7f360-3f3a-4dfd-8e55-0721b39b8282"
+    },
+    {
+        "name": "Lismore - Greater Region",
+        "state": "NSW",
+        "id": "4e20cdc3-e071-41bb-be6c-f2d711647d3d"
+    },
+    {
+        "name": "Lockyer Valley Region",
+        "state": "QLD",
+        "id": "9bf56720-bddc-4da1-9cd6-e078c2b23081"
+    },
+    {
+        "name": "Mackay - Greater Region",
+        "state": "QLD",
+        "id": "fd0b0638-3830-4725-a9d2-4e80c1023267"
+    },
+    {
+        "name": "Mandurah - Greater Region",
+        "state": "WA",
+        "id": "d2fd0232-d035-4ecc-8d5c-ee1c64ee19f9"
+    },
+    {
+        "name": "Mid West",
+        "state": "WA",
+        "id": "7cd6bfb5-e40c-4d78-a136-1edcc3d8d68c"
+    },
+    {
+        "name": "Murray Region",
+        "state": "NSW",
+        "id": "f2c50529-faf0-4f26-81eb-45fc2330fed6"
+    },
+    {
+        "name": "Murraylands",
+        "state": "SA",
+        "id": "168a3998-ddf5-4eb8-8d33-dd496a333e62"
+    },
+    {
+        "name": "Mildura - Greater Region",
+        "state": "VIC",
+        "id": "aa665678-6cce-45e6-9226-29cb28f2ed5d"
+    },
+    {
+        "name": "Mid North Region",
+        "state": "SA",
+        "id": "aaf62215-74a3-4c88-aa78-3e255d24ac6c"
+    },
+    {
+        "name": "Macedon Ranges Shire",
+        "state": "VIC",
+        "id": "2121f99c-4351-4da7-a559-9beaa14c0a0f"
+    },
+    {
+        "name": "Monaro",
+        "state": "NSW",
+        "id": "3259c4d6-d140-4fdc-afc6-777800a7ecc8"
+    },
+    {
+        "name": "Midlands",
+        "state": "TAS",
+        "id": "c5c914fa-852d-4534-8154-1ecd550cef58"
+    },
+    {
+        "name": "Maryborough - Greater Region",
+        "state": "QLD",
+        "id": "6b645e66-96ab-4e75-ae60-7f4ee7fa1f68"
+    },
+    {
+        "name": "Mudgee - Greater Region",
+        "state": "NSW",
+        "id": "e2624cd5-b403-4fe8-a56f-4abcfdc0571a"
+    },
+    {
+        "name": "North Coast",
+        "state": "NSW",
+        "id": "f50d7343-2281-4ed5-97bf-1888d45e63fd"
+    },
+    {
+        "name": "North East Perth",
+        "state": "WA",
+        "id": "58b61024-974e-4772-b912-22e90a696df4"
+    },
+    {
+        "name": "North West Perth",
+        "state": "WA",
+        "id": "2417e3a0-19bf-4b50-a27c-d5838c6f4e01"
+    },
+    {
+        "name": "Northern Beaches",
+        "state": "NSW",
+        "id": "ff03c5af-a84b-435e-a428-0342320c9cac"
+    },
+    {
+        "name": "New England",
+        "state": "NSW",
+        "id": "b557c79e-cd9a-4834-ac69-276e442b5503"
+    },
+    {
+        "name": "North West Melbourne",
+        "state": "VIC",
+        "id": "3deb4aca-af31-4e92-8189-c1a3954bc134"
+    },
+    {
+        "name": "Northern Region",
+        "state": "WA",
+        "id": "47c8cbf2-00e8-430d-afa3-4cea627ddebb"
+    },
+    {
+        "name": "Northern",
+        "state": "SA",
+        "id": "5ee93143-36e6-44a3-bbe2-009f3a6b5723"
+    },
+    {
+        "name": "Noosa",
+        "state": "QLD",
+        "id": "9100fa06-5bff-44ed-bb60-b8003bc70c94"
+    },
+    {
+        "name": "Nowra Region",
+        "state": "NSW",
+        "id": "c16cc80d-7580-4170-9e95-5fc40cc9d799"
+    },
+    {
+        "name": "Noosa Hinterland",
+        "state": "QLD",
+        "id": "8bb002e5-5de2-4c93-aafb-8d85061a1438"
+    },
+    {
+        "name": "Nambucca Shire",
+        "state": "NSW",
+        "id": "dd7c565d-427a-48e1-a43c-995594d75e4d"
+    },
+    {
+        "name": "Orange - Greater Region",
+        "state": "NSW",
+        "id": "e0c7c7cd-c554-4578-861f-bdbcab5f2bd5"
+    },
+    {
+        "name": "Otways",
+        "state": "VIC",
+        "id": "2a9cf4f2-a7ea-40d1-b2c2-a7c66ad15b51"
+    },
+    {
+        "name": "Peel Region",
+        "state": "WA",
+        "id": "afc43ba2-52cf-4a0b-9e99-7f7525f9de15"
+    },
+    {
+        "name": "Pilbara",
+        "state": "WA",
+        "id": "195bb049-7aea-4497-9e26-5f59dba48ac5"
+    },
+    {
+        "name": "Port Stephens",
+        "state": "NSW",
+        "id": "203a146c-8b24-4c64-b860-9b6eb0aaf734"
+    },
+    {
+        "name": "Perth Hills",
+        "state": "WA",
+        "id": "de8624ee-398c-415f-967c-7e557719e6ac"
+    },
+    {
+        "name": "Pyrenees Shire",
+        "state": "VIC",
+        "id": "3059b942-4cfd-442c-bb7e-719fd39f0c77"
+    },
+    {
+        "name": "Port Macquarie - Greater Region",
+        "state": "NSW",
+        "id": "2b2fee7b-4927-4c8e-be2f-bc150a678ce6"
+    },
+    {
+        "name": "Pittwater",
+        "state": "NSW",
+        "id": "20cdf9f3-ec57-4e1f-9e5c-3bccb2052891"
+    },
+    {
+        "name": "Phillip Island",
+        "state": "VIC",
+        "id": "18590a99-4648-480e-9436-a02c973a318a"
+    },
+    {
+        "name": "Palmerston - Greater Region",
+        "state": "NT",
+        "id": "d86f6f08-d95f-4209-876f-a989a133c2c6"
+    },
+    {
+        "name": "Port Lincoln - Greater Region",
+        "state": "SA",
+        "id": "6868fe47-0d4d-4728-856f-c35e34d38cac"
+    },
+    {
+        "name": "Queanbeyan - Greater Region",
+        "state": "NSW",
+        "id": "40af91df-24e4-408a-be76-83b2053a915b"
+    },
+    {
+        "name": "Queenscliffe Borough",
+        "state": "VIC",
+        "id": "653a197f-0085-410c-a665-e06ce0c2116d"
+    },
+    {
+        "name": "Redland City Region",
+        "state": "QLD",
+        "id": "0e4f6162-4205-4317-8010-f0d382125604"
+    },
+    {
+        "name": "Sunshine Coast, Hinterland - Region",
+        "state": "QLD",
+        "id": "a5fb4ec4-ee2c-4334-bbf6-3dbf34bfa57e"
+    },
+    {
+        "name": "Toowoomba City and Suburbs",
+        "state": "QLD",
+        "id": "be02ec08-7654-4dc1-b028-953a7a017db8"
+    },
+    {
+        "name": "Surat Basin",
+        "state": "QLD",
+        "id": "4eae0d84-54df-4eaa-8e77-143bd67fb150"
+    },
+    {
+        "name": "Western Queensland - Region",
+        "state": "QLD",
+        "id": "18422be5-299b-4802-9959-aab283c63150"
+    },
+    {
+        "name": "Rockhampton - Greater Region",
+        "state": "QLD",
+        "id": "89032171-95bd-4917-bc61-70168d31670b"
+    },
+    {
+        "name": "Yeppoon, Capricorn Coast - Region",
+        "state": "QLD",
+        "id": "2db63b20-3404-457a-b038-e0a90ca66e3a"
+    },
+    {
+        "name": "Scenic Rim Region",
+        "state": "QLD",
+        "id": "f57dbd8f-f6a9-4cc0-a0b6-3434807bc771"
+    },
+    {
+        "name": "Somerset Region",
+        "state": "QLD",
+        "id": "aa9f3d89-92d5-42cf-8348-04c25867636f"
+    },
+    {
+        "name": "Whitsundays - Greater Region",
+        "state": "QLD",
+        "id": "c92339f6-6b3e-4b48-80ce-7e7a97c57f12"
+    },
+    {
+        "name": "Riverland",
+        "state": "SA",
+        "id": "a1fa5ead-a913-4f9c-91d3-737fc812c695"
+    },
+    {
+        "name": "South Coast",
+        "state": "NSW",
+        "id": "7191790f-f57e-4a9b-8efc-abd1e147ed89"
+    },
+    {
+        "name": "South West Perth",
+        "state": "WA",
+        "id": "794f2a19-0857-4241-8738-12e77eec6614"
+    },
+    {
+        "name": "St George",
+        "state": "NSW",
+        "id": "e5b8d2ac-3bb5-4b37-8fc7-7ff9f6f83e9d"
+    },
+    {
+        "name": "South East Perth",
+        "state": "WA",
+        "id": "0ed53ed2-646c-448e-863e-c38317307d5c"
+    },
+    {
+        "name": "South Western Sydney",
+        "state": "NSW",
+        "id": "0eadb86e-6345-43b6-ab6d-18e17c779817"
+    },
+    {
+        "name": "South West Slopes",
+        "state": "NSW",
+        "id": "8ee5add4-607f-4eac-b799-2d4a4bad3df8"
+    },
+    {
+        "name": "South West Region",
+        "state": "WA",
+        "id": "5d49611f-010b-41c9-afb7-c0da68c2179f"
+    },
+    {
+        "name": "Southern Tablelands",
+        "state": "NSW",
+        "id": "219b70e3-abf1-4e91-bf07-910f7e93b433"
+    },
+    {
+        "name": "Sydney CBD",
+        "state": "NSW",
+        "id": "6102b706-7216-4cde-b780-45cba0514ac5"
+    },
+    {
+        "name": "Swan Valley",
+        "state": "WA",
+        "id": "2a1d2c85-3b28-48ad-acdc-77ee8b334735"
+    },
+    {
+        "name": "Sale - Greater Region",
+        "state": "VIC",
+        "id": "d2a12aae-2782-4d7f-acd9-9b595c9ae4a0"
+    },
+    {
+        "name": "Shepparton - Greater Region",
+        "state": "VIC",
+        "id": "d76c8e66-45bd-49d5-9a89-cb8898ad5ffd"
+    },
+    {
+        "name": "Southern Highlands - Greater Region",
+        "state": "NSW",
+        "id": "d90c73a6-77e9-4235-b72d-b29ea67af09e"
+    },
+    {
+        "name": "Snowy Mountains Region",
+        "state": "NSW",
+        "id": "66fc1d61-9540-405e-8fdc-f80721823dda"
+    },
+    {
+        "name": "Top End",
+        "state": "NT",
+        "id": "b61decf2-f20c-4238-8f8f-69a1bb422048"
+    },
+    {
+        "name": "Tweed Shire",
+        "state": "NSW",
+        "id": "6708c689-4780-44d8-a838-e4bf372e23ba"
+    },
+    {
+        "name": "Tuggeranong District",
+        "state": "ACT",
+        "id": "196ba5bd-5cdf-415f-9f20-2fde8e13e8f9"
+    },
+    {
+        "name": "Traralgon - Greater Region",
+        "state": "VIC",
+        "id": "133a400f-e8e0-4b11-ac16-04c48da3e596"
+    },
+    {
+        "name": "Tamworth - Greater Region",
+        "state": "NSW",
+        "id": "be2a5cd1-a108-4601-860c-0682fe2398d8"
+    },
+    {
+        "name": "Taree - Greater Region",
+        "state": "NSW",
+        "id": "7a75baa3-4d5a-4711-8572-69e7a0d4ecdf"
+    },
+    {
+        "name": "Tamar Valley",
+        "state": "TAS",
+        "id": "0d3ca19f-980e-4f29-8530-19c956b8d576"
+    },
+    {
+        "name": "Tumut Shire",
+        "state": "NSW",
+        "id": "52e9ef76-3bb3-447d-92f4-28fa89f5df1d"
+    },
+    {
+        "name": "Tasmania - Central Region",
+        "state": "TAS",
+        "id": "3f48ed7d-d64c-43f9-ab14-6cb1b9afb710"
+    },
+    {
+        "name": "Upper North Shore",
+        "state": "NSW",
+        "id": "8c7ed42f-3aa3-480e-8b0e-ff52f0c2ac4d"
+    },
+    {
+        "name": "Ulladulla Region",
+        "state": "NSW",
+        "id": "c3961623-c99b-4f0a-a934-28541844d8c8"
+    },
+    {
+        "name": "Upper Hunter",
+        "state": "NSW",
+        "id": "5011e370-9645-4cdd-af3e-ca589b84d16f"
+    },
+    {
+        "name": "Ulverstone and Central Coast",
+        "state": "TAS",
+        "id": "5d705a17-b2cb-4b3f-aebd-5f8500ce91f0"
+    },
+    {
+        "name": "Yarrawonga-Mulwala Region",
+        "state": "VIC",
+        "id": "8a0bb0ae-ef95-469a-88c2-15b18485bc95"
+    },
+    {
+        "name": "Warrnambool - Greater Region",
+        "state": "VIC",
+        "id": "fd1421f7-aa23-41b3-8e1c-2594a87bd8dd"
+    },
+    {
+        "name": "Western Sydney",
+        "state": "NSW",
+        "id": "637c2a12-9141-4e1d-adfa-30bd200a49a4"
+    },
+    {
+        "name": "Wheatbelt",
+        "state": "WA",
+        "id": "19509e3d-43d2-4873-a4ac-e42526626d62"
+    },
+    {
+        "name": "Wagga Wagga - Greater Region",
+        "state": "NSW",
+        "id": "7301257e-6879-48e5-aa42-ee92a3cfbbee"
+    },
+    {
+        "name": "Woden Valley District",
+        "state": "ACT",
+        "id": "fb537f1d-4dc1-462f-a386-cd653fa7689c"
+    },
+    {
+        "name": "West Coast",
+        "state": "TAS",
+        "id": "a51c571d-0dd5-4149-84c6-9ede145820b0"
+    },
+    {
+        "name": "Wodonga - Greater Region",
+        "state": "VIC",
+        "id": "71c2da59-65a7-477f-b073-02a549e2570b"
+    },
+    {
+        "name": "Warwick - Greater Region",
+        "state": "QLD",
+        "id": "9c5ddf74-bd7f-4ae1-a401-5658592dc622"
+    },
+    {
+        "name": "Yorke Peninsula",
+        "state": "SA",
+        "id": "548e064c-3997-4880-8d38-c846851e1f5e"
+    },
+    {
+        "name": "Yamba Region",
+        "state": "NSW",
+        "id": "0837ee9c-a6f2-49d6-b5ef-ec38c6181eb7"
+    }
+]

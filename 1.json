@@ -1,0 +1,57 @@
+{
+                    "id": "1592986",
+                    "agentId": null,
+                    "linkedSalespeopleIds": [
+                        "1592986"
+                    ],
+                    "url": "https://www.realestate.com.au/agent/michael-brown-1592986",
+                    "jobTitle": "Director, Sale/Rentals Professional",
+                    "ratingsReviewsURL": "https://review-agent.realestate.com.au/?agentId=1592986",
+                    "totalReviews": 160,
+                    "avgRating": 5,
+                    "name": "Michael Brown",
+                    "medianDaysAdvertised": 28,
+                    "medianSoldPrice": 515000,
+                    "primaryListCount": 67,
+                    "secondaryListCount": null,
+                    "totalSalesAcrossAllSuburbs": 67,
+                    "totalReviewsInTimeFrame": 44,
+                    "phone": {
+                        "mobile": null,
+                        "business": null,
+                        "__typename": "AgentPhone"
+                    },
+                    "media": {
+                        "avatar": {
+                            "templatedUrl": "//i1.au.reastatic.net/{size}/6f4e317578c8c379c82905860d533e7b78ad58571b6da9cfdd2be5f23406d1ca/main.jpg",
+                            "__typename": "Image"
+                        },
+                        "__typename": "AgentMedia"
+                    },
+                    "agency": {
+                        "id": "KGMJDL",
+                        "name": "myhouse Realty Toowoomba - TOOWOOMBA",
+                        "branding": {
+                            "primaryColor": "#006fb9",
+                            "__typename": "AgencyBranding"
+                        },
+                        "media": {
+                            "logo": {
+                                "templatedUrl": "/d17f2947198c314612874231b42e5976159483a6521add3ae0576e961480ef26/main.gif",
+                                "__typename": "Image"
+                            },
+                            "__typename": "AgencyMedia"
+                        },
+                        "__typename": "Agency"
+                    },
+                    "video": [],
+                    "bestAndLatestReview": {
+                        "rating": 5,
+                        "publishDate": "",
+                        "reviewerRole": "BUYER",
+                        "review": "Exceptional knowledge and service! Michael went the extra mile for us to getting us our first home we cannot recommend Michael and his team from my house enough! The whole process went smoothly with great communication. We definitely will be using Michael in the near future as our agent. Outstanding agent. ",
+                        "__typename": "AgentReview"
+                    },
+                    "recentSoldListings": null,
+                    "__typename": "PowerAgent"
+                },
