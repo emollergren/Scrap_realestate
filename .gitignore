@@ -19,6 +19,11 @@ ENV/
 # Project specific directories
 output/
 Get_detail_agent/Detailed_agent_data/
+Get_detail_agent/Detailed_agency_data/
+detailed_agency.csv
+detailed_agency.json
+detailed_agent.csv
+detailed_agent.json
 
 # Python
 __pycache__/
