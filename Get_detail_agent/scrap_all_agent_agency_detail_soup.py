@@ -285,7 +285,7 @@ def scrape_agent_profile(url: str, regions: list = None, max_retries: int = 3) -
     for attempt in range(max_retries):
         try:
             # Add delay before each request
-            delay = random.uniform(1, 2)
+            delay = random.uniform(30,60)
             print(f"\nAttempt {attempt + 1}/{max_retries}:")
             print(f"Waiting {delay:.1f} seconds before request...")
             time.sleep(delay)
@@ -325,7 +325,7 @@ def scrape_agency_profile(url: str, max_retries: int = 3) -> Dict:
     for attempt in range(max_retries):
         try:
             # Add delay before each request
-            delay = random.uniform(1, 2)
+            delay = random.uniform(30,60)
             print(f"\nAttempt {attempt + 1}/{max_retries} for agency:")
             print(f"Waiting {delay:.1f} seconds before request...")
             time.sleep(delay)
