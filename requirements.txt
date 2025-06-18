@@ -5,3 +5,4 @@ selenium==4.15.2
 webdriver-manager==4.0.1
 tqdm==4.66.1
 fake-useragent==1.4.0 
+brotli

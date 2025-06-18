@@ -24,6 +24,8 @@ detailed_agency.csv
 detailed_agency.json
 detailed_agent.csv
 detailed_agent.json
+Get_result/result/
+Get_result/Seperated_data/
 
 # Python
 __pycache__/
